@@ -43,7 +43,7 @@
 
                         /* auto-click big cookie and spawn/auto-click golden cookie after getting neverclick achieve
                            do no more than 15 times just to get the rapid clicker achieve */
-                        if((Game.cookiesEarned >= 1000000001) {
+                        if(Game.cookiesEarned >= 1000000001) {
                         	for(var i=0; i < 15; i++)
                                 Game.ClickCookie();
                         }  
